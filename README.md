@@ -37,3 +37,9 @@ The problem of mode collapse occurs when the generator network is only able to c
 【17】Comparison of Generative Adversarial Networks Architectures Which Reduce Mode Collapse 对比了PcGAN VEEGAN
 
 【18】REAL OR NOT REAL, THAT IS THE QUESTION   提出RealnessGAN 
+
+【19】 A Style-Based Generator Architecture for Generative Adversarial Networks 
+
+【20】 Large Scale GAN Training for High Fidelity Natural Image Synthesis
+
+【21】 Diversity Regularized Adversarial Learning
